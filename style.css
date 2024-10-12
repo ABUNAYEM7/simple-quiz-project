@@ -1,0 +1,8 @@
+.btns{
+    padding: 10px 20px;
+    font-size: 1.2 rem;
+    font-weight: 700;
+    background-color: rgb(42, 65, 190);
+    border-radius: 0.5rem;
+    color: white;
+}
